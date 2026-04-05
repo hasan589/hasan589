@@ -35,7 +35,7 @@
 
   ---
 ## 📫 Connect with Me
-- LinkedIn: (your link here)
+- LinkedIn: (https://www.linkedin.com/in/hasananwar17)
 - GitHub:
 - https://github.com/hasan589
 
