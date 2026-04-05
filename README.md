@@ -1,4 +1,4 @@
-[21:38, 05/04/2026] Anwar Vi different rajbari: # Hi, I'm Anwar Hasan 👋
+ Hi, I'm Anwar Hasan 👋
 
 🎯 Aspiring Software Engineer  
 🏛️ Goal: BUET Administrative Officer + IT Career  
