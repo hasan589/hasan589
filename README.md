@@ -1,16 +1,41 @@
-## Hi there 👋
+[21:38, 05/04/2026] Anwar Vi different rajbari: # Hi, I'm Anwar Hasan 👋
 
-<!--
-**hasan589/hasan589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Software Engineer  
+🏛️ Goal: BUET Administrative Officer + IT Career  
+💻 Focus: ASP.NET Core, API Development, SQL Server  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- 📌 Student Management System API
+- 📌 Office Management System
+- 📌 Model Port Management System
+
+---
+
+## 🛠️ Skills
+- C#, ASP.NET Core
+- SQL Server
+- Entity Framework
+- REST API Development
+
+---
+
+## 📈 Currently Learning
+- Advanced API Development
+- Clean Architecture
+- Authentication (JWT)
+
+---
+
+## 🎯 Career Goal
+- Become a Professional Software Engineer
+- Build Powerful Projects
+- Serve People with Technology
+
+  ---
+## 📫 Connect with Me
+- LinkedIn: (your link here)
+- GitHub:
+- https://github.com/hasan589
+
