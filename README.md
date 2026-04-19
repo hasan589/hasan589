@@ -1,7 +1,7 @@
  Hi, I'm Anwar Hasan 👋
 
 🎯 Aspiring Software Engineer  
-🏛️ Goal: BUET Administrative Officer + IT Career  
+🏛️ Goal:Administrative Officer + IT Career  
 💻 Focus: ASP.NET Core, API Development, SQL Server  
 
 ---
